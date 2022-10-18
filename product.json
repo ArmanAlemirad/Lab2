@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Frukt",
+    "type": "Banan",
+    "brandName": "Ecuador",
+    "eaCode": 2339325000005,
+    "price": 19.9
+  },
+  {
+    "category": "Frukt",
+    "type": "Äpple",
+    "brandName": "Granny Smith",
+    "eaCode": 2317413900000,
+    "price": 31.95
+  },
+  {
+    "category": "Frukt",
+    "type": "Päron",
+    "brandName": "Conferece",
+    "eaCode": 2317301700002,
+    "price": 32.95
+  },
+  {
+    "category": "Bröd",
+    "type": "Jättefranska",
+    "brandName": "Pågen",
+    "eaCode": 7311070008463,
+    "price": 35.95
+  },
+  {
+    "category": "Mejeri",
+    "type": "Mellanmjölk",
+    "brandName": "Arla",
+    "eaCode": 7310865001818,
+    "price": 18.95
+  },
+  {
+    "category": "Torrvaror",
+    "type": "Gräddsås",
+    "brandName": "Blå band",
+    "eaCode": 7322550092025,
+    "price": 16.0
+  }
+]
